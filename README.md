@@ -1,6 +1,6 @@
 # Examples Use Google Spreadsheets API
 Suport By
-[![Repl.it](https://developers.google.com/site-assets/images/home/google_developers_logo.png =80x)](https://www.npmjs.com/package/googleapis) [![Repl.it](https://lh3.googleusercontent.com/wy5o0ijAE-l9Ru4g2ft84wjHzhURtzumh_M36frnTDOSTNsXivUBZQgu4cWQXs4BQ0is0yepDESHAtFfpSnyVrwHtx2qA4U6f_2- =110x)](https://repl.it/join/icgczalc-bimaahida)
+[![Repl.it](https://developers.google.com/site-assets/images/home/google_developers_logo.png)](https://www.npmjs.com/package/googleapis) [![Repl.it](https://lh3.googleusercontent.com/wy5o0ijAE-l9Ru4g2ft84wjHzhURtzumh_M36frnTDOSTNsXivUBZQgu4cWQXs4BQ0is0yepDESHAtFfpSnyVrwHtx2qA4U6f_2-)](https://repl.it/join/icgczalc-bimaahida)
 # Description
 Implementation Google sheets API using Node.js to read and write sheet on Google.  On first we can read documentation [Google Sheets API](https://developers.google.com/sheets/api).  On the we can see how to use API in some programming language, but on this project show how to use on Node.js.
 ### Features
